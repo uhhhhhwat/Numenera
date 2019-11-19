@@ -7,9 +7,9 @@
 
 ### Basic Stats
 
-| Tier| Level|XP|Effort| Armour | Shins| Rations|
----| --- | --- | --- | --- | --- | --- 
-  1| 0 | 1 |   2     |  3     |4|5
+| Tier| Level|XP|Effort| Armour | Shins| Rations| Cyphers|
+---| --- | --- | --- | --- | --- | --- | ---
+  1| 0 | 1 |   2     |  3     |8|5 | 2
 
 
 
@@ -28,7 +28,6 @@ Intellect| 14| |1 |
 ||Persuasion | |Charm, persuasion, etiquette | |
 || Mechanics| |1 |
 | | Botany| |
-| | | |
 
 ### Tricks of the trade
 
@@ -50,9 +49,7 @@ Two books (any topics)
 
 Explorer's pack (see Disco pg 98)
 
-Shins = 8
-
-Cyphers = 2
 
 Clothing (obviously)
+
 An oddity
