@@ -7,23 +7,23 @@
 
 ### Basic Stats
 
-| Tier        | Level           | XP  | Effort| Armour | Shins| Rations|
---- | --- | --- | --- | --- | --- | --- | --- | ---
-|  1   | 0 | 1 |   2     |  3     |4|5
+| Tier| Level|XP|Effort| Armour | Shins| Rations|
+---| --- | --- | --- | --- | --- | --- 
+  1| 0 | 1 |   2     |  3     |4|5
 
 
 
 ### Stats
 | | Current| Total| Edge | Notes|
---- | --- | --- | --- | --- | --- 
-|Might | 12| | |
-|Speed|10 | | |
-|Intellect| 14| |1 |
+--- | --- | --- | --- | --- 
+Might | 12| | |
+Speed|10 | | |
+Intellect| 14| |1 |
 ### Special Abilities
 
 ### Skills/Assets/Inabilities
 | | Skills| Assets| Inabilities | Notes|
---- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- 
 | | Lockpicking ||Heavy Weapons |
 ||Persuasion | |Charm, persuasion, etiquette | |
 || Mechanics| |1 |
@@ -34,8 +34,8 @@
 
 | Name| Effect | Notes |
 --- | --- | --- |
-  Late Inspiration |     |      |
-   Vanish |     |      |
+Late Inspiration |     |      |
+Vanish |     |      |
 Face Morph|     |      |
 
 ### Equipment
